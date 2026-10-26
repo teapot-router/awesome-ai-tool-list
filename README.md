@@ -35,6 +35,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [TeapotRouter](https://teapotrouter.com) - A usage-based AI model gateway, named after HTTP status 418, that serves GPT and Claude model families through a single API key.
+  - **Tags**: `Paid` `API` `Gateway` `Developer Tools` `Pay-as-you-go`
+  - **Pricing**: Usage-based, $1 minimum top-up
+  - **Contact**: https://github.com/teapot-router
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
